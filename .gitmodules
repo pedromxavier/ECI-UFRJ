@@ -13,3 +13,12 @@
 [submodule "EEL480"]
 	path = EEL480
 	url = https://github.com/pedromxavier/EEL480
+[submodule "COS360"]
+	path = COS360
+	url = https://github.com/pedromxavier/COS360
+[submodule "COC473"]
+	path = COC473
+	url = https://github.com/pedromxavier/COC473
+[submodule "COC472"]
+	path = COC472
+	url = https://github.com/pedromxavier/COC472
