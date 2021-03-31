@@ -1,0 +1,15 @@
+[submodule "EEL418"]
+	path = EEL418
+	url = https://github.com/pedromxavier/EEL418
+[submodule "EEL770"]
+	path = EEL770
+	url = https://github.com/pedromxavier/EEL770
+[submodule "EEL816"]
+	path = EEL816
+	url = https://github.com/pedromxavier/EEL816
+[submodule "EEL882"]
+	path = EEL882
+	url = https://github.com/pedromxavier/EEL882
+[submodule "EEL480"]
+	path = EEL480
+	url = https://github.com/pedromxavier/EEL480
