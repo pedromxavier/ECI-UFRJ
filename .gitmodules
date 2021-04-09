@@ -22,3 +22,9 @@
 [submodule "COC472"]
 	path = COC472
 	url = https://github.com/pedromxavier/COC472
+[submodule "EEL879"]
+	path = EEL879
+	url = https://github.com/pedromxavier/EEL879.git
+[submodule "MAA355"]
+	path = MAA355
+	url = https://github.com/pedromxavier/MAA355
