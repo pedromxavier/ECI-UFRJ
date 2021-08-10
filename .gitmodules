@@ -34,3 +34,6 @@
 [submodule "COS470"]
 	path = COS470
 	url = ./COS470
+[submodule "tcc"]
+	path = tcc
+	url = ./tcc
