@@ -37,3 +37,6 @@
 [submodule "tcc"]
 	path = tcc
 	url = ./tcc
+[submodule "COP232"]
+	path = COP232
+	url = ./COP232
